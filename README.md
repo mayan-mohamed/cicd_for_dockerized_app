@@ -1,0 +1,1 @@
+## This project is automation of CI/CD workflow for a dockerized Flask app using Github Actions
